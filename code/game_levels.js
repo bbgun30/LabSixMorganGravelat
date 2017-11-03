@@ -1,5 +1,5 @@
 var GAME_LEVELS = [
-["                                                                               x  ",
+  ["                                                                             x  ",
    "                                                                             x  ",
    "                                                                             x  ",
    "  x                                                                          x  ",
